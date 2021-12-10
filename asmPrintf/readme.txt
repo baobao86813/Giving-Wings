@@ -1,0 +1,3 @@
+1、执行compile_c_x86.sh对myPrint_x86.c编译并生成myPrint_x86，依赖gcc/ld
+2、执行compile_c_x64.sh对myPrint_x64.c编译并生成myPrint_x64，依赖gcc
+2、执行compile_asm.sh对asmPrint.asm编译并生成asmPrint，依赖nasm
